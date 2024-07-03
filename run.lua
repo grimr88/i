@@ -1,1 +1,1 @@
-loadstring
+getfenv(1).loadstring
